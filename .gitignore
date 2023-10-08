@@ -1,0 +1,11 @@
+#data
+/Tweets_Data
+Tweepy/tweets.csv
+Tweepy/tweets.xlsx
+Binance/BTCUSDT-1d-data.csv
+Binance/BTCUSDT-1h-data.csv
+Binance/BTCUSDT-5m-data.csv
+
+#API key
+Binance/Get Binance Data.ipynb
+Tweepy/twitter_streaming.py
